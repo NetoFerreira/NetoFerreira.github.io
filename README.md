@@ -1,6 +1,5 @@
 ## Meu Portfólio
 Neto Ferreira, 20 anos 
-Artes 
 
 #contatos 
 
@@ -8,12 +7,21 @@ Artes
 
 2 - E-mail:
 
+#Artes 
 
-##Jogos 
+1. adiconar apenas um link http
+[GOKU](https://br.pinterest.com/pin/861806078668122899/)
+
+2. trasnformar o link em imagem (url + imagem)
+![GOKU](https://br.pinterest.com/pin/861806078668122899/)
+
+3. adicionar uma imagem do computador 
+
+
+
+#Jogos 
 
 **Nome do Jogo**
-##Artes 
-
 
 
 ### Markdown
