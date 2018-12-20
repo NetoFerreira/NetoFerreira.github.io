@@ -10,11 +10,9 @@ Neto Ferreira, 20 anos
 #Artes 
 
 1. adiconar apenas um link http
-
 [GOKU](https://i.pinimg.com/564x/f7/b8/b1/f7b8b11d89b6898afcc3ffe224722f71.jpg)
 
 2. trasnformar o link em imagem da internet (url da imagem)
-
 ![GOKU](https://i.pinimg.com/564x/f7/b8/b1/f7b8b11d89b6898afcc3ffe224722f71.jpg)
 
 3. adicionar uma imagem do computador
