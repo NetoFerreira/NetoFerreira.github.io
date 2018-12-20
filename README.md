@@ -16,7 +16,7 @@ Neto Ferreira, 20 anos
 ![GOKU](https://i.pinimg.com/564x/f7/b8/b1/f7b8b11d89b6898afcc3ffe224722f71.jpg)
 
 3. adicionar uma imagem do computador
-![Projeto Hekura](Cabelo com detalhe.png)
+![Projeto Hekura](Cabelocomdetalhe.png)
 
 4. adiconar imagem e link (arquivo + url)
 [![Projeto Hekura](Cabelocomdetalhe.png)](http://app.hacknplan.com)
