@@ -16,7 +16,7 @@ Neto Ferreira, 20 anos
 ![GOKU](https://br.pinterest.com/pin/861806078668122899/)
 
 3. adicionar uma imagem do computador 
-![Projeto Hekura](Cabelo com detalhe.png)
+![Projeto Hekura](Cabelocomdetalhe.png)
 
 
 #Jogos 
