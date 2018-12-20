@@ -16,11 +16,13 @@ Neto Ferreira, 20 anos
 ![GOKU](https://i.pinimg.com/564x/f7/b8/b1/f7b8b11d89b6898afcc3ffe224722f71.jpg)
 
 3. adicionar uma imagem do computador
-![Projeto Hekura](Cabelocomdetalhe.png)
+![Projeto Hekura](hekura_projeto.jpg)
 
 4. adiconar imagem e link (arquivo + url)
-[![Projeto Hekura](Cabelocomdetalhe.png)](http://app.hacknplan.com)
+[![Projeto Hekura](hekura_projeto.jpg)](http://app.hacknplan.com)
 
+5.avançado: adiconar imagem que também é link e que abre um nova janela 
+<a href="http://app.hacknplan.com" target="_blank"> ![hekura_projeto.jpg] </a>
 
 #Jogos 
 
