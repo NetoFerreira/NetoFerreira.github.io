@@ -31,7 +31,7 @@
 ![esboco2](esboco2.jpeg)
 
 **Primeiro desenho feito com a mesa digitalizadora**
-![](rascunho.png)
+![](rascunho(1).png)
 
 **Personagem criada para o projeto do professor marcelo, na qual desenvolvo algumas artes.** 
 ![Projeto Hekura](hekura_projeto.jpg)
