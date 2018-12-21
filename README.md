@@ -11,6 +11,7 @@
 - **Instagram:** @neto_ferreira.png
 
 - **E-mails:** netho-ferreira@hotmail.com e netthofherreira@gmail.com
+----------------------------------------------------------------------------------------------------------------------------------------
 
 **Minhas Artes**
 
@@ -42,6 +43,33 @@
 **Rael**(Personagem principal do jogo do 4º bimestre de Oficina)
 ![](anjo.jpeg)
 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**Jogos em que trabalhei junto a alguns colegas** 
+
+
+
+**CrocoBite**
+
+[![](croco.jpg)](https://danilo25.github.io/CrocoBite/)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**For You**
+
+[![](inicial.png)](https://raixasantos.github.io/ForU/)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**Geritama**
+
+[![](tela_inicial_geritama.gif)](https://tawanferreira10.github.io/geritama/)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**Fallen Sky**
+
 **Animação da personagem do 4º jogo correndo**
 ![esboco2](anjo_correndo.gif)
 
@@ -53,27 +81,14 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-**Jogos em que trabalhei junto a alguns colegas** 
-
-**CrocoBite**
-
-[![](croco.jpg)](https://danilo25.github.io/CrocoBite/)
-
-**For You**
-
-[![](inicial.png)](https://raixasantos.github.io/ForU/)
-
-**Geritama**
-
-[![](tela_inicial_geritama.gif)](https://tawanferreira10.github.io/geritama/)
-
-**Fallen Sky**
-
-
-
 **Algumas artes do jogo For you**
 
 ![](help.png)
+
+**Remake da tela inicial do For You**
+![](ff.jpg)
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 **Algumas artes do jogo Geritama**
 
@@ -84,6 +99,9 @@
 ![](fogo.gif)
 
 ![](gelo.gif)
+
+![](estranho.png)
+
 
 
 ### Markdown
