@@ -42,7 +42,10 @@
 **Animação da personagem do jogo 4 correndo**
 ![esboco2](anjo_correndo.gif)
 
-**Animação da personagem do jogo 4 correndo**
+**Animação da personagem do jogo 4 usando o especial**
+![esboco2](especial.gif)
+
+**Animação da personagem do jogo 4 pulando**
 ![esboco2](especial.gif)
 
 #Jogos 
