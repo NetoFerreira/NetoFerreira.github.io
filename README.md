@@ -55,7 +55,7 @@
 
 **CrocoBite**
 
-[![](croco.png)](https://danilo25.github.io/CrocoBite/)
+[![](croco.jpg)](https://danilo25.github.io/CrocoBite/)
 
 **For You**
 
