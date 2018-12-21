@@ -30,7 +30,10 @@
 
 ![esboco2](esboco2.jpeg)
 
-3. adicionar uma imagem do computador
+**Primeiro desenho feito com a mesa digitalizadora**
+![](rascunho.png)
+
+**Personagem criada para o projeto do professor marcelo, na qual desenvolvo algumas artes.** 
 ![Projeto Hekura](hekura_projeto.jpg)
 
 4. adiconar imagem e link (arquivo + url)
