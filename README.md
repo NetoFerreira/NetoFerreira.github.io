@@ -46,7 +46,7 @@
 ![esboco2](especial.gif)
 
 **Animação da personagem do jogo 4 pulando**
-![esboco2](especial.gif)
+![esboco2](pulo.gif)
 
 #Jogos 
 
