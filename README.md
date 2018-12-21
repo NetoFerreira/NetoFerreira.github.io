@@ -14,6 +14,9 @@
 
 **Minhas Artes**
 
+**Tela inicial do Geritama**
+![geritama](tela_inicial_geritama.gif)
+
 **Geritama usando a combinação de seus poderes (inspirado no Kamehameha do Goku)**
 ![Geritama usando a combinação de seus poderes (inspirado no Kamehameha do Goku)](geritama_kamehameha.jpeg)
 
