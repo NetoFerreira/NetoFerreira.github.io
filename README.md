@@ -36,11 +36,10 @@
 **Personagem criada para o projeto do professor marcelo, na qual desenvolvo algumas artes.** 
 ![Projeto Hekura](hekura_projeto.jpg)
 
-4. adiconar imagem e link (arquivo + url)
-[![Projeto Hekura](hekura_projeto.jpg)](http://app.hacknplan.com)
+**Animação correndo**
+![esboco2](anjo_correndo.gif)
 
-5.avançado: adiconar imagem que também é link e que abre um nova janela 
-<a href="http://app.hacknplan.com" target="_blank"> ![hekura_projeto.jpg] </a>
+
 
 #Jogos 
 
