@@ -6,11 +6,11 @@
 
 **Neto Ferreira**, aluno do IFRN CM (campus Ceará-Mirim), um futuro designer gráfico, que talvez trabalhe em jogos. Atualmente no 3º ano de Jogos Digitais, faço as artes dos jogos em que trabalho. Descobri gostar da área de design no curso, após realizar alguns trabalhos em projetos do professor Durval e Marcelo.   
 
-*Contatos* 
+**Contatos**
 
-1 - **Instagram:** @neto_ferreira.png
+- **Instagram:** @neto_ferreira.png
 
-2 - **E-mails:** netho-ferreira@hotmail.com e netthofherreira@gmail.com
+- **E-mails:** netho-ferreira@hotmail.com e netthofherreira@gmail.com
 
 **Minhas Artes**
 
@@ -39,21 +39,33 @@
 **Personagem criada para o projeto do professor marcelo, na qual desenvolvo algumas artes.** 
 ![Projeto Hekura](hekura_projeto.jpg)
 
-**Rael**
+**Rael**(Personagem principal do jogo do 4º bimestre de Oficina)
 ![](anjo.jpeg)
 
-**Animação da personagem do jogo 4 correndo**
+**Animação da personagem do 4º jogo correndo**
 ![esboco2](anjo_correndo.gif)
 
-**Animação da personagem do jogo 4 usando o especial**
+**Animação da personagem do do 4º jogo usando o especial**
 ![esboco2](especial.gif)
 
-**Animação da personagem do jogo 4 pulando**
+**Animação da personagem do 4º jogo pulando**
 ![esboco2](pulo.gif)
 
-#Jogos 
+**Jogos em que trabalhei junto a alguns colegas** 
 
-**Nome do Jogo**
+**CrocoBite**
+
+[![](croco.png)](https://danilo25.github.io/CrocoBite/)
+
+**For You**
+
+[![](inicial.png)](https://raixasantos.github.io/ForU/)
+
+**Geritama**
+
+[![](tela_inicial_geritama.gif)](https://tawanferreira10.github.io/geritama/)
+
+**Fallen Sky**
 
 
 ### Markdown
