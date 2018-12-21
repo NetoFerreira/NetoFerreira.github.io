@@ -51,6 +51,8 @@
 **Animação da personagem do 4º jogo pulando**
 ![esboco2](pulo.gif)
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 **Jogos em que trabalhei junto a alguns colegas** 
 
 **CrocoBite**
