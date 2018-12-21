@@ -2,7 +2,7 @@
 
 **Quem eu sou?**
 
-![](perfil.jpeg) 
+![](eu.png) 
 
 **Neto Ferreira**, aluno do IFRN CM (campus Ceará-Mirim), um futuro designer gráfico, que talvez trabalhe em jogos. Atualmente no 3º ano de Jogos Digitais, faço as artes dos jogos em que trabalho. Descobri gostar da área de design no curso, após realizar alguns trabalhos em projetos do professor Durval e Marcelo.   
 
@@ -66,6 +66,22 @@
 [![](tela_inicial_geritama.gif)](https://tawanferreira10.github.io/geritama/)
 
 **Fallen Sky**
+
+
+
+**Algumas artes do jogo For you**
+
+![](help.png)
+
+**Algumas artes do jogo Geritama**
+
+![](run_geri.gif)
+
+![](pulo_geri.gif)
+
+![](fogo.gif)
+
+![](gelo.gif)
 
 
 ### Markdown
