@@ -36,13 +36,14 @@
 **Personagem criada para o projeto do professor marcelo, na qual desenvolvo algumas artes.** 
 ![Projeto Hekura](hekura_projeto.jpg)
 
-**Animação correndo**
-![esboco2](anjo_correndo.gif)
-
 **Rael**
 ![](anjo.jpeg)
 
+**Animação da personagem do jogo 4 correndo**
+![esboco2](anjo_correndo.gif)
 
+**Animação da personagem do jogo 4 correndo**
+![esboco2](especial.gif)
 
 #Jogos 
 
