@@ -1,19 +1,34 @@
-## Meu Portfólio
-Neto Ferreira, 20 anos 
+*Meu Portfólio*
 
-#contatos 
+*Quem eu sou?*
 
-1 - Instagram:
+![](perfil.jpeg) 
 
-2 - E-mail:
+*Neto Ferreira*, aluno do IFRN CM (campus Ceará-Mirim), um futuro designer gráfico, que talvez trabalhe em jogos. Atualmente no 3º ano de Jogos Digitais, faço as artes dos jogos em que trabalho. Descobri gostar da área de design no curso, após realizar alguns trabalhos em projetos do professor Durval e Macerlo.   
 
-#Artes 
+*Contatos* 
 
-1. adiconar apenas um link http
-[GOKU](https://i.pinimg.com/564x/f7/b8/b1/f7b8b11d89b6898afcc3ffe224722f71.jpg)
+1 - *Instagram:* @neto_ferreira.png
 
-2. trasnformar o link em imagem da internet (url da imagem)
-![GOKU](https://i.pinimg.com/564x/f7/b8/b1/f7b8b11d89b6898afcc3ffe224722f71.jpg)
+2 - *E-mails:* netho-ferreira@hotmail.com e netthofherreira@gmail.com
+
+*Minhas Artes* 
+
+*Geritama usando a combinação de seus poderes (inspirado no Kamehameha do Goku)*
+![Geritama usando a combinação de seus poderes (inspirado no Kamehameha do Goku)](geritama_kamehameha.jpeg)
+
+*Geritama poder de gelo*
+![Geritama poder de gelo](geritama_poder.jpeg)
+
+*Uma tentativa de usar o pixel art*
+![Uma tentativa de usar o pixel art](geritama_pixel.jpeg)
+
+*Alguns esboço da criação do Geritama*
+![esboço1](geritama_tela.jpeg)
+
+![esboco1](esboco1.jpeg)
+
+![esboco2](esboco2.jpeg)
 
 3. adicionar uma imagem do computador
 ![Projeto Hekura](hekura_projeto.jpg)
