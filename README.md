@@ -46,6 +46,10 @@
 **Lúcifer**, esse personagem é o Boss do jogo e o irmão de **Rael**, que roubou a asa dela.
 ![](lu.jpg)
 
+**(Lúcifer)** Só coloquei essa porque a pose ficou legal.
+![](j.jpg)
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -89,6 +93,8 @@
 **Algumas artes do jogo Geritama**
 
 ![](run_geri.gif)
+
+![](p.jpg)
 
 ![](pulo_geri.gif)
 
