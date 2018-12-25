@@ -11,12 +11,12 @@
 - **Instagram:** @neto_ferreira.png
 
 - **E-mails:** netho-ferreira@hotmail.com e netthofherreira@gmail.com
-----------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Minhas Artes**
 
-**Tela inicial do Geritama**
-![geritama](tela_inicial_geritama.gif)
+**Geritama**, esse personagem vive em mundo onde monstros são capturados e obrigados a lutar contra 
+"o escolhido", que é o monstro capturado e exposto há vários outros monstros que vão tentar. No jogo, o "o escolhido" é o Geritama, um personagem híbrido, possui o poder do fogo e do gelo.![](geri_costas.jpg)
 
 **Geritama usando a combinação de seus poderes (inspirado no Kamehameha do Goku)**
 ![Geritama usando a combinação de seus poderes (inspirado no Kamehameha do Goku)](geritama_kamehameha.jpeg)
@@ -40,13 +40,16 @@
 **Personagem criada para o projeto do professor marcelo, na qual desenvolvo algumas artes.** 
 ![Projeto Hekura](hekura_projeto.jpg)
 
-**Rael**(Personagem principal do jogo do 4º bimestre de Oficina)
+**Rael**, essa personagem é o último anjo caído. Logo após cair no mundo apocalíptico, ela tem uma de suas roubadas por seu irmão **Lúcifer**.
 ![](anjo.jpeg)
 
+**Lúcifer**, esse personagem é o Boss do jogo e o irmão de **Rael**, que roubou a asa dela.
+![](lu.jpg)
 
-----------------------------------------------------------------------------------------------------------------------------------------
 
-**Jogos em que trabalhei junto a alguns colegas** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+↓↓ **Jogos em que trabalhei junto a alguns colegas** ↓↓
 
 
 
@@ -70,15 +73,6 @@
 
 **Fallen Sky**
 
-**Animação da personagem do 4º jogo correndo**
-![esboco2](anjo_correndo.gif)
-
-**Animação da personagem do do 4º jogo usando o especial**
-![esboco2](especial.gif)
-
-**Animação da personagem do 4º jogo pulando**
-![esboco2](pulo.gif)
-
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 **Algumas artes do jogo For you**
@@ -87,6 +81,8 @@
 
 **Remake da tela inicial do For You**
 ![](ff.jpg)
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -102,37 +98,16 @@
 
 ![](estranho.png)
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**Animação da personagem do 4º jogo correndo**
+![esboco2](anjo_correndo.gif)
+
+**Animação da personagem do do 4º jogo usando o especial**
+![esboco2](especial.gif)
+
+**Animação da personagem do 4º jogo pulando**
+![esboco2](pulo.gif)
 
 
-### Markdown
 
-programador 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NetoFerreira/NetoFerreira.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
