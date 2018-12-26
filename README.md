@@ -116,8 +116,18 @@
 
 ![esboco2](anjo_correndo.gif)
 
-![esboco2](especial.gif)
+![esboco2](idle.gif)
 
 ![esboco2](pulo.gif)
+
+![esboco2](ataque_rael_1.gif)
+
+![esboco2](especial.gif)
+
+![esboco2](run_lu.gif)
+
+![esboco2](ataque_lu_1.gif)
+
+![esboco2](ataque_lu_2.gif)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
