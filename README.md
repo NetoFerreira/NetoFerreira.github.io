@@ -38,7 +38,7 @@
 **Primeiro desenho feito com a mesa digitalizadora**
 ![](rascunho.png)
 
-**Personagem criada para o projeto do professor marcelo, na qual desenvolvo algumas artes.** 
+**Personagem criada para o projeto do professor Marcelo, na qual desenvolvo algumas artes.** 
 ![Projeto Hekura](hekura_projeto.jpg)
 
 **Rael**, essa personagem é o último anjo caído. Logo após cair no mundo apocalíptico, ela tem uma de suas roubadas por seu irmão **Lúcifer**.
@@ -76,6 +76,7 @@
 
 **Fallen Sky**
 
+[![](olhos_piscando.gif)]
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
