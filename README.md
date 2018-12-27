@@ -4,7 +4,7 @@
 
 ![](eu.png) 
 
-**Neto Ferreira**, aluno do IFRN CM (campus Ceará-Mirim), um futuro designer gráfico, que talvez trabalhe em jogos. Atualmente no 3º ano de Jogos Digitais, faço as artes dos jogos em que trabalho. Descobri gostar da área de design no curso, após realizar alguns trabalhos em projetos do professor Durval e Marcelo.   
+**Neto Ferreira**, aluno do IFRN CM (campus Ceará-Mirim), um futuro designer gráfico, que talvez trabalhe em jogos. Atualmente no 3º ano de Jogos Digitais, faço as artes dos jogos em que trabalho. 
 
 **Contatos**
 
@@ -19,8 +19,7 @@
 **Logo da empresa Rabizzcando**
 ![](caneca.png)
 
-**Geritama**, esse personagem vive em mundo onde monstros são capturados e obrigados a lutar contra 
-"o escolhido", que é o monstro capturado e exposto há vários outros monstros que vão tentar. No jogo, o "o escolhido" é o Geritama, um personagem híbrido, possui o poder do fogo e do gelo.![](geri_costas.jpg)
+**Geritama** - No mundo em que ele vive há um tipo de show em que vários montros tentam matar um outro monstro escolhido, que nessa história é o Geritama. Este personagem é um ser híbrido, possui o poder do fogo e do gelo.![](geri_costas.jpg)
 
 **Geritama usando a combinação de seus poderes (inspirado no Kamehameha do Goku)**
 ![Geritama usando a combinação de seus poderes (inspirado no Kamehameha do Goku)](geritama_kamehameha.jpeg)
@@ -44,10 +43,10 @@
 **Personagem criada para o projeto do professor Marcelo, na qual desenvolvo algumas artes.** 
 ![Projeto Hekura](hekura_projeto.jpg)
 
-**Rael**, essa personagem é o último anjo caído. Logo após cair no mundo apocalíptico, ela tem uma de suas roubadas por seu irmão **Lúcifer**.
+**Rael** - Essa personagem é o último anjo caído. Logo após cair no mundo apocalíptico, ela tem uma de suas roubadas por seu irmão **Lúcifer**.
 ![](anjo.jpeg)
 
-**Lúcifer**, esse personagem é o Boss do jogo e o irmão de **Rael**, que roubou a asa dela.
+**Lúcifer** - Esse personagem é o Boss do jogo e o irmão de **Rael**, que roubou a asa dela.
 ![](lu.jpg)
 
 **(Lúcifer)** Só coloquei essa porque a pose ficou legal.
@@ -55,7 +54,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-↓↓ **Jogos em que trabalhei junto a alguns colegas** ↓↓ ＼(^o^)／
+↓↓ **Jogos em que trabalhei junto com alguns colegas** ↓↓ ＼(^o^)／
 
 
 
@@ -100,6 +99,12 @@
 
 **Algumas artes do jogo Geritama**
 
+![](pergunta.png)
+
+![](respota.png)
+
+![](opora.png)
+
 ![](run_geri.gif)
 
 ![](p.jpg)
@@ -114,7 +119,7 @@
 
 ![](lobo_run.gif)
 
-![](lobo_run.000.png)
+![](000.png)
 
 ![](mon_1.gif)
 
