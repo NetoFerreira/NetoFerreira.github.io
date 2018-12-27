@@ -16,6 +16,9 @@
 
 **Minhas Artes**
 
+**Logo da empresa Rabizzcando**
+![](caneca.png)
+
 **Geritama**, esse personagem vive em mundo onde monstros são capturados e obrigados a lutar contra 
 "o escolhido", que é o monstro capturado e exposto há vários outros monstros que vão tentar. No jogo, o "o escolhido" é o Geritama, um personagem híbrido, possui o poder do fogo e do gelo.![](geri_costas.jpg)
 
@@ -82,7 +85,7 @@
 
 **Algumas artes do jogo CrocoBite**
 
-
+![](boca_aberta.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -94,7 +97,6 @@
 ![](ff.jpg)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
 
 **Algumas artes do jogo Geritama**
 
@@ -110,8 +112,15 @@
 
 ![](estranho.png)
 
-----------------------------------------------------------------------------------------------------------------------------------------
+![](lobo_run.gif)
 
+![](lobo_run.000.png)
+
+![](mon_1.gif)
+
+![](mons_2.gif)
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 **Algumas artes do Jogo Fallen Sky**
 
