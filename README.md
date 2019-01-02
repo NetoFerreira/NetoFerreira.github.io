@@ -16,7 +16,7 @@
 
 **Minhas Artes**
 
-**Logo da empresa Rabizzcando**
+**Logo da empresa Rabizzco**
 ![](caneca.png)
 
 **Geritama** - No mundo em que ele vive há um tipo de show em que vários montros tentam matar um outro monstro escolhido, que nessa história é o Geritama. Este personagem é um ser híbrido, possui o poder do fogo e do gelo.![](geri_costas.jpg)
