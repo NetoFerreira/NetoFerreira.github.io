@@ -60,25 +60,29 @@
 
 
 
-**CrocoBite**
+**CrocoBite** - Tema: Coragem
+**Prêmio de melhor arte e criatividade**
 
 [![](croco.jpg)](https://danilo25.github.io/CrocoBite/)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-**For You**
+**For You** - Tema: Companheirismo
+**Prêmio de melhor mecânica**
 
 [![](inicial.png)](https://raixasantos.github.io/ForU/)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-**Geritama**
+**Geritama** - Tema: Temperatura
+**Prêmio de melhor arte**
 
 [![](tela_inicial_geritama.gif)](https://tawanferreira10.github.io/geritama/)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-**Fallen Sky**
+**Fallen Sky** Tema: Livre
+**Sem avaliação até o momento**
 
 [![](olhos_piscando.gif)]
 
