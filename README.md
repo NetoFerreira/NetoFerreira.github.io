@@ -38,12 +38,8 @@
 **Uma tentativa de usar o pixel art**
 ![Uma tentativa de usar o pixel art](geritama_pixel.jpeg)
 
-**Alguns esboço da criação do Geritama**
+**Esboço da criação do Geritama**
 ![esboço1](geritama_tela.jpeg)
-
-![esboco1](esboco1.jpeg)
-
-![esboco2](esboco2.jpeg)
 
 **Primeiro desenho feito com a mesa digitalizadora**
 ![](rascunho.png)
