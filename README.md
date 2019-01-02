@@ -46,6 +46,8 @@
 **Rael** - Essa personagem é o último anjo caído. Logo após cair no mundo apocalíptico, ela tem uma de suas roubadas por seu irmão **Lúcifer**.
 ![](anjo.jpeg)
 
+![](m.jpg)
+
 **Lúcifer** - Esse personagem é o Boss do jogo e o irmão de **Rael**, que roubou a asa dela.
 ![](lu.jpg)
 
