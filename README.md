@@ -72,7 +72,7 @@
 
 **Prêmio de melhor arte e criatividade**
 
-[![](croco.jpg)](https://danilo25.github.io/CrocoBite/)
+<a href="https://danilo25.github.io/CrocoBite/" target="_blank"> ![imagem](croco.jpg) </a>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -80,7 +80,8 @@
 
 **Prêmio de melhor mecânica**
 
-[![](inicial.png)](https://raixasantos.github.io/ForU/)
+<a href="https://raixasantos.github.io/ForU/" target="_blank"> ![imagem](inicial.png) </a>
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -88,7 +89,8 @@
 
 **Prêmio de melhor arte**
 
-[![](tela_inicial_geritama.gif)](https://tawanferreira10.github.io/geritama/)
+<a href="https://tawanferreira10.github.io/geritama/" target="_blank"> ![imagem](tela_inicial_geritama.gif) </a>
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
