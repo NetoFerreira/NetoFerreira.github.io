@@ -87,14 +87,14 @@
 
 <a href="https://tawanferreira10.github.io/geritama/" target="_blank"> ![imagem](tela_inicial_geritama.gif) </a>
 
-
+https://hadssajordana7.github.io/fallensky/
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 **Fallen Sky** Tema: Livre
 
 **Sem avaliação até o momento**
 
-[![](olhos_piscando.gif)]
+<a href="https://hadssajordana7.github.io/fallensky/" target="_blank"> ![imagem](tela_inicial_geritama.gif) </a>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
