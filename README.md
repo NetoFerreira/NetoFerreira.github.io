@@ -94,7 +94,7 @@ https://hadssajordana7.github.io/fallensky/
 
 **Sem avaliação até o momento**
 
-<a href="https://hadssajordana7.github.io/fallensky/" target="_blank"> ![imagem](tela_inicial_geritama.gif) </a>
+<a href="https://hadssajordana7.github.io/fallensky/" target="_blank"> ![imagem](olhos_piscando.gif	) </a>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
