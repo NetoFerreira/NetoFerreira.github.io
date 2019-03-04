@@ -4,13 +4,13 @@
 
 ![](eu.png) 
 
-**Neto Ferreira**, aluno do IFRN CM (campus Ceará-Mirim), um futuro designer gráfico, que talvez trabalhe em jogos. Atualmente no 3º ano de Jogos Digitais, faço as artes dos jogos em que trabalho. 
+**Neto Ferreira**, aluno do IFRN CM (campus Ceará-Mirim), um futuro designer gráfico, que talvez trabalhe em jogos. Atualmente no 4º ano de Jogos Digitais, faço as artes dos jogos em que trabalho. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 **Projetos que participo:**
 
--Solução de conteúdo em design gráfico para Jogos Digitais
+-Solução de conteúdo em design gráfico para Jogos Digitais (professor Marcelo)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -19,6 +19,8 @@
 - **Instagram:** @neto_ferreira.png
 
 - **E-mails:** netho-ferreira@hotmail.com e netthofherreira@gmail.com
+
+- **E-mail acadêmico:** n.ferreira@academico.ifrn.edu.br
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -57,6 +59,15 @@
 
 **(Lúcifer)** Só coloquei essa porque a pose ficou legal.
 ![](j.jpg)
+
+**(Lúcifer e Rael)** Uma ilustraçao da briga entre os irmãos.
+![](lu_Rael.jpeg)
+
+**(Rael e Geritama)** Um Crossover dos meus personagens prefiridos, só faltou Lia :( .
+![](geri_rael.jpeg)
+
+**(Lia Davies)** Personagem criada a partir de uma história desemvolvida na diciplina de Construção de Personagem e Narrativa (CPN).
+![](Lia_tec.jpeg)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
