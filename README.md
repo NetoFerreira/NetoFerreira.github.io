@@ -29,7 +29,7 @@
 **Logo da empresa Rabizzco**
 ![](caneca.png)
 
-**Geritama** - No mundo em que ele vive há um tipo de show em que vários montros tentam matar um outro monstro escolhido, que nessa história é o Geritama. Este personagem é um ser híbrido, possui o poder do fogo e do gelo.![](geri_costas.jpg)
+**Geritama** - No mundo em que ele vive, há um tipo de show em que vários monstros tentam matar um outro monstro escolhido, que nessa história é o Geritama. Este personagem é um ser híbrido, usuário do poder de fogo e gelo.![](geri_costas.jpg)
 
 **Geritama usando a combinação de seus poderes (inspirado no Kamehameha do Goku)**
 ![Geritama usando a combinação de seus poderes (inspirado no Kamehameha do Goku)](geritama_kamehameha.jpeg)
@@ -49,7 +49,7 @@
 **Personagem criada para o projeto do professor Marcelo, na qual desenvolvo algumas artes.** 
 ![Projeto Hekura](hekura_projeto.jpg)
 
-**Rael** - Essa personagem é o último anjo caído. Logo após cair no mundo apocalíptico, ela tem uma de suas roubadas por seu irmão **Lúcifer**.
+**Rael** - Essa personagem é o último anjo caído. Logo após cair no mundo apocalíptico, ela tem uma de suas asas roubadas por seu irmão, **Lúcifer**.
 ![](anjo.jpeg)
 
 ![](m.jpg)
@@ -66,7 +66,7 @@
 **(Rael e Geritama)** Um Crossover dos meus personagens prefiridos, só faltou Lia :( .
 ![](geri_rael.jpeg)
 
-**(Lia Davies)** Personagem criada a partir de uma história desemvolvida na diciplina de Construção de Personagem e Narrativa (CPN).
+**(Lia Davies)** Personagem criada a partir de uma história desenvolvida na diciplina de Construção de Personagem e Narrativa (CPN).
 ![](Lia_tec.jpeg)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
