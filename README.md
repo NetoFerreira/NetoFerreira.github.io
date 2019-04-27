@@ -49,6 +49,10 @@
 **Personagem criada para o projeto do professor Marcelo, na qual desenvolvo algumas artes.** 
 ![Projeto Hekura](hekura_projeto.jpg)
 
+**Concept Art de alguns personagens que foi feito para uma ideia de jogo do projeto com o professor Marcelo.** 
+![Projeto](espanha.jpg)
+
+
 **Rael** - Essa personagem é o último anjo caído. Logo após cair no mundo apocalíptico, ela tem uma de suas asas roubadas por seu irmão, **Lúcifer**.
 ![](anjo.jpeg)
 
